@@ -9,7 +9,7 @@ div #content {
   position: relative;
 }
 
-div #top_title #sideMenu {
+div #top_title, #sideMenu {
   display: none;
 }
 
