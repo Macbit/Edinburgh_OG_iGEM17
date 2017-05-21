@@ -16,3 +16,11 @@ div #top_title, #sideMenu {
 div .container {
   margin-top: 15px;
 }
+
+#HQ_page p {
+  text-align: center;
+}
+
+#footer li {
+  margin: 0;
+}
