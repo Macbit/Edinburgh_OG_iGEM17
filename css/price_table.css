@@ -113,7 +113,7 @@ li.mute {
 }
 
 .pricing-container {
-    /*margin: 6em auto;*/
+    margin: 6em auto;
 }
 .pricing-container.full-width {
     width: 100%;
