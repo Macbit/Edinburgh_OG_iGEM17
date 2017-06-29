@@ -89,7 +89,8 @@ li.mute {
 	background: #D30000 !important;
 	background-size: cover;
 	background-attachment: fixed;
-	padding: 80px 0;
+	padding: 0px 0;
+	margin:-40px;
 	text-align: center !important;
 	position: relative;
 	color: white;
@@ -571,7 +572,7 @@ li.mute {
 }
 
 .exclusive .select {
-    background-color: #D30000;
+    background-color: #D30000 !important;
 	color: #ffffff;
 }
 
