@@ -89,8 +89,8 @@ li.mute {
 	background: #D30000 !important;
 	background-size: cover;
 	background-attachment: fixed;
-	padding: 0px 0;
-	margin:-40px;
+	padding: 2px 0;
+	margin:-70px -20px -80px -20px;
 	text-align: center !important;
 	position: relative;
 	color: white;
