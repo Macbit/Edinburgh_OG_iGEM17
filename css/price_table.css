@@ -85,7 +85,7 @@ li.mute {
 	margin:0 !important;
 }
 
-.pricing-table-section {
+#pricing-table-section {
 	background: #D30000 !important;
 	background-size: cover;
 	background-attachment: fixed;
