@@ -92,19 +92,8 @@ li.mute {
 	padding: 80px 0;
 	text-align: center !important;
 	position: relative;
-	color: white;
+	color: black;
 }
-
-#pricing-table-section .block .btn-contact {
-    background: #fff;
-    border: none;
-    color: #D30000 !important;
-    padding: 16px 35px;
-    margin-top: 20px;
-    font-size: 12px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    border-radius: 0;
 
 .pricing-container {
 	width: 90%;
@@ -129,7 +118,7 @@ li.mute {
 	position: relative;
 	padding: 2px;
 	border-radius: 50em;
-	border: 2px solid #173d50;
+	border: 2px solid #2d3e50;
 }
 
 .pricing-switcher input[type="radio"] {
@@ -156,7 +145,7 @@ li.mute {
 	left: 2px;
 	height: 40px;
 	width: 90px;
-	background-color: #173d50;
+	background-color: #2d3e50;
 	border-radius: 50em;
 	-webkit-transition: -webkit-transform 0.5s;
 	-moz-transition: -moz-transform 0.5s;
@@ -178,7 +167,6 @@ li.mute {
 
 .pricing-list {
 	margin: 2em 0 0;
-	color: white;
 }
 
 .pricing-list > li {
@@ -342,7 +330,7 @@ li.mute {
     display: none;
   }
   .exclusive .pricing-wrapper > li {
-    box-shadow: inset 0 0 0 3px #173d50;
+    box-shadow: inset 0 0 0 3px #2d3e50;
   }
   .has-margins .pricing-wrapper > li,
   .has-margins .exclusive .pricing-wrapper > li {
@@ -446,7 +434,7 @@ li.mute {
 
 .exclusive .currency,
 .exclusive .duration {
-    color: #173d50;
+    color: #2d3e50;
 }
 
 .currency {
@@ -476,7 +464,6 @@ li.mute {
 
 .pricing-features {
 	width: 600px;
-	margin:0 !important;
 }
 
 .pricing-features:after {
