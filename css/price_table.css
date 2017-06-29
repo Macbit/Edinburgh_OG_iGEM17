@@ -85,14 +85,14 @@ li.mute {
 	margin:0 !important;
 }
 
-.pricing-table-section {
+#pricing-table-section {
 	background: #D30000 !important;
 	background-size: cover;
 	background-attachment: fixed;
 	padding: 80px 0;
 	text-align: center !important;
 	position: relative;
-	color: black;
+	color: white;
 }
 
 .pricing-container {
@@ -103,6 +103,7 @@ li.mute {
 
 .pricing-container {
     margin: 6em auto;
+		color: white;
 }
 .pricing-container.full-width {
     width: 100%;
@@ -464,6 +465,7 @@ li.mute {
 
 .pricing-features {
 	width: 600px;
+	margin:0 !important;
 }
 
 .pricing-features:after {
