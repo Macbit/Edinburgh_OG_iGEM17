@@ -24,3 +24,16 @@ div .container {
 #footer li {
   margin: 0;
 }
+
+
+/*Temporary style to fix the outlook on other pages*/
+div .full_size:first-child{
+  margin-top:100px !important;
+}
+
+div .full_size {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
