@@ -52,7 +52,7 @@ jQuery(document).ready(function(){
 
 });
 
-
+$(".full_size").first().css( "margin-top", "100px" );
 
 
 $(document).ready(function(){
@@ -105,7 +105,3 @@ $(".fancybox").fancybox({
         }
     }
 });
-
-
-
-$( ".full_size" ).first().css( "margin-top", "100px" );
