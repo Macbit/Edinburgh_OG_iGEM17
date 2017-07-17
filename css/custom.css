@@ -27,17 +27,6 @@ div .container {
 
 
 /*Temporary style to fix the outlook on other pages*/
-/*div .full_size:first-child{
-  margin-top:100px !important;
-}*/
-
-div .full_size {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
 div #HQ_page {
   width: 1170px;
   padding-right: 15px;
@@ -50,7 +39,7 @@ div #HQ_page {
   padding: 20px 30px 0 30px;
 }
 
-.column .half_size {
+.column.half_size {
   float:left;
   width: 50%;
 }
