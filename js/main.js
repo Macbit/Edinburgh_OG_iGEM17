@@ -52,11 +52,10 @@ jQuery(document).ready(function(){
 
 });
 
-$(".full_size").first().css( "margin-top", "100px" );
-
 
 $(document).ready(function(){
 
+    $(".full_size").first().css( "margin-top", "100px" );
 
 
 
