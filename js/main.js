@@ -55,7 +55,8 @@ jQuery(document).ready(function(){
 
 $(document).ready(function(){
 
-    $(".full_size").first().css( "margin-top", "100px" );
+    $(".full_size").first().css( "margin-top", "90px" );
+    $(".full_size").first().css( "padding-top", "10px" );
 
 
 
