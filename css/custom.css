@@ -18,7 +18,26 @@ div .container {
 }
 
 #HQ_page p {
-  /*text-align: center;*/
+  color: #727272;
+  font-size: 15px;
+  line-height: 24px;
+  margin-bottom: 35px;
+}
+
+#HQ_page h1 {
+  font-size: 30px;
+  line-height: 1.1;
+  color: #333;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+#HQ_page h2 {
+  font-size: 26px;
+  font-weight: 300;
+  margin-bottom: 30px;
+  text-transform: uppercase;
 }
 
 #footer li {
@@ -33,6 +52,7 @@ div #HQ_page {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  padding-bottom: 30px;
 }
 
 .column {
