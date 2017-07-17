@@ -63,3 +63,14 @@ div #HQ_page {
   float:left;
   width: 50%;
 }
+
+.column ul {
+  color: #727272;
+  font-size: 15px;
+  line-height: 24px;
+  margin-bottom: 35px;
+}
+
+.column li {
+  list-style-type: circle;
+}
